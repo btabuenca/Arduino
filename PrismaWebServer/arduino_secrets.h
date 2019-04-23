@@ -1,0 +1,2 @@
+#define SECRET_SSID "TP-Link_4B6C"
+#define SECRET_PASS "81975532"
